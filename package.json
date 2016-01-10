@@ -1,0 +1,20 @@
+{
+  "name": "gbp",
+  "version": "0.0.0",
+  "description": "Convert a number in pennies into a string formatted for british pounds",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "seed-random": "^2.2.0",
+    "testit": "^2.0.2"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/gbp.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
