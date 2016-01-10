@@ -1,6 +1,6 @@
 {
   "name": "gbp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a number in pennies into a string formatted for british pounds",
   "keywords": [],
   "dependencies": {},
